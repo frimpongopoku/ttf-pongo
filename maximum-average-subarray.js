@@ -3,6 +3,7 @@
  * @param {number} k
  * @return {number}
  * Runtime: O(n*k)
+ * Link is here: https://leetcode.com/problems/maximum-average-subarray-i/description/
  */
 var findMaxAverage = function(nums, k) {
     let max =-10001;
