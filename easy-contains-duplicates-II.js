@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @param {number} k
  * @return {boolean}
+ * Run time: O(n)
  */
 var containsNearbyDuplicate = function(nums, k) {
     const tracker = {} 
